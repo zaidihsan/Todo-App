@@ -25,7 +25,7 @@ class TodoForm extends Component
 
         $this->emit('refreshTodoList');
         $this->newTask = '';
-
+        //test
     }
 
     public function render()
